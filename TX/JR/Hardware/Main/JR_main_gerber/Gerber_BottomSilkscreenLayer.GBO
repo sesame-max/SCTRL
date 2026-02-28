@@ -1,0 +1,29 @@
+G04 Layer: BottomSilkscreenLayer*
+G04 EasyEDA v6.4.20.6, 2021-08-10T22:17:48+08:00*
+G04 3e40aa7c103941ed943dfb521ea35c29,b8edaa0a806e4915acc4ca6663e46532,10*
+G04 Gerber Generator version 0.2*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in millimeters *
+G04 leading zeros omitted , absolute positions ,4 integer and 5 decimal *
+G04*
+G04 #@! TF.GenerationSoftware,Altium Limited,Altium Designer,23.1.1 (15)*
+G04*
+G04 Layer_Color=32896*
+%FSLAX25Y25*%
+%MOIN*%
+G70*
+G04*
+G04 #@! TF.SameCoordinates,03F7D1C1-C5FB-48E8-AD4B-F654CDEC49F4*
+G04*
+G04*
+G04 #@! TF.FilePolarity,Positive*
+G04*
+G01*
+G75*
+%ADD86C,0.00700*%
+D86*
+X144882Y80709D02*
+G03*
+X156693Y68135I12598J0D01*
+G01*
+M02*
