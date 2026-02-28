@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/Software/Keil5/ARM/ARMCC/include" //更改为自己Keil中相应的头文件位置
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "__CC_ARM",
+                //以下在Keil中复制即可
+                "USE_FULL_LL_DRIVER",
+                "USE_HAL_DRIVER",
+                "STM32F401xC"
+            ]
+        }
+    ],
+    "version": 4
+}

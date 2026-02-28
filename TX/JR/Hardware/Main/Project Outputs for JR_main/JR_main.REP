@@ -1,0 +1,14 @@
+*************************************************************
+FileName = JR_main.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 1
+      File : JR_main.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+

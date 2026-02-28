@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "JR_programe"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"time.h": "c",
+			"main.h": "c",
+			"oled.h": "c",
+			"stm32f4xx_hal.h": "c",
+			"stm32f4xx_hal_conf.h": "c",
+			"protocol.h": "c",
+			"user_drivers_include.h": "c",
+			"user_lib_include.h": "c",
+			"user_usb.h": "c",
+			"usb_device.h": "c",
+			"usbd_cdc_if.h": "c",
+			"usart.h": "c",
+			"logo.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
